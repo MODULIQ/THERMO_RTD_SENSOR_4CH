@@ -1,0 +1,2 @@
+# THERMO_RTD_SENSOR_4CH
+quad PT100/PT1000 2/4 wire sensor AF
